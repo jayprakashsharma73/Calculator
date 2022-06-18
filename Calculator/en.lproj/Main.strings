@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "0nG-Ue-3Fk"; */
+"0nG-Ue-3Fk.normalTitle" = "9";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "5bh-Wj-GhO"; */
+"5bh-Wj-GhO.normalTitle" = "-";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "7kf-E1-zkU"; */
+"7kf-E1-zkU.normalTitle" = "8";
+
+/* Class = "UIButton"; normalTitle = "/"; ObjectID = "D2R-lf-2WE"; */
+"D2R-lf-2WE.normalTitle" = "/";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "FU0-6H-EWy"; */
+"FU0-6H-EWy.normalTitle" = "X";
+
+/* Class = "UITextField"; placeholder = "Enter number"; ObjectID = "HKm-Rl-Eig"; */
+"HKm-Rl-Eig.placeholder" = "Enter number";
+
+/* Class = "UIButton"; normalTitle = "="; ObjectID = "OBB-7T-olM"; */
+"OBB-7T-olM.normalTitle" = "=";
+
+/* Class = "UIButton"; normalTitle = "%"; ObjectID = "Vv1-TG-uMf"; */
+"Vv1-TG-uMf.normalTitle" = "%";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "WgN-bv-Tyg"; */
+"WgN-bv-Tyg.normalTitle" = "6";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "lWT-6e-En9"; */
+"lWT-6e-En9.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "nvY-Bb-hkE"; */
+"nvY-Bb-hkE.normalTitle" = "4";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "qgL-6Q-2Xi"; */
+"qgL-6Q-2Xi.normalTitle" = "0";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "r3L-Oc-unz"; */
+"r3L-Oc-unz.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "Calculator"; ObjectID = "rVR-Uw-Qms"; */
+"rVR-Uw-Qms.text" = "Calculator";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "uyq-g8-8Iz"; */
+"uyq-g8-8Iz.normalTitle" = "2";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "vMe-mO-PoD"; */
+"vMe-mO-PoD.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "xl7-zt-SvJ"; */
+"xl7-zt-SvJ.normalTitle" = "7";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "y8Y-ec-jZc"; */
+"y8Y-ec-jZc.normalTitle" = "3";
